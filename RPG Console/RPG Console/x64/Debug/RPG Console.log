@@ -1,0 +1,50 @@
+﻿  Cell.cpp
+  Character.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'Character.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'Character.cpp')
+  
+  Game.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'Game.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'Game.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Game.cpp(52,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Game.cpp(53,16): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Game.cpp(54,20): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  HDC.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'HDC.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'HDC.cpp')
+  
+  Hero.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'Hero.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'Hero.cpp')
+  
+  Item.cpp
+  main.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'main.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\main.cpp(8,15): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  Viking.cpp
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(89,19): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+  (compiler le fichier source 'Viking.cpp')
+  
+C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\Character.h(90,25): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
+  (compiler le fichier source 'Viking.cpp')
+  
+  Génération de code en cours...
+  RPG Console.vcxproj -> C:\Users\fouca\Documents\GitHub\lyo-1-c64-s1p3-22\RPG Console\x64\Debug\RPG Console.exe
